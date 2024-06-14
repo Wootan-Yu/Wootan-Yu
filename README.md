@@ -1,7 +1,7 @@
 # Hi there, I'm Woo Tan Yu 👋
 
 # 💫 About Me:
-Just a programmer who enjoys exploring math and physics through code
+I'm a passionate programmer with a deep love for both mathematics and physics. For me, coding isn't just a profession; it's a gateway to exploring the intricate beauty of these two fascinating disciplines.
 
 
 # 💻 Tech Stack:
