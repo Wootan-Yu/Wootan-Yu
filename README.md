@@ -1,7 +1,7 @@
-# Hi there, I'm Wootan 👋
+# Hi there, I'm Woo Tan Yu 👋
 
 # 💫 About Me:
-I am a programmer who enjoys exploring math and physics through code
+Just a programmer who enjoys exploring math and physics through code
 
 
 # 💻 Tech Stack:
