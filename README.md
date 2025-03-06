@@ -42,7 +42,7 @@ Here are a few examples of projects that showcase my skills:
 
 ## 🌱 Currently Learning
 
-- Exploring **2D graphics** using SFML.
+- Exploring **2D and 3D graphics** using SFML.
 - Improving performance optimization for physics-based simulations.
 
 
