@@ -49,7 +49,6 @@ Here are a few examples of projects that showcase my skills:
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/martinpadayao/)
-- [Email](billpines65@gmail.com)
 - [Facebook](https://www.facebook.com/share/15pD3cU9Aj/)
 
 Feel free to reach out for collaborations, project discussions, or just to chat about game development and programming!
