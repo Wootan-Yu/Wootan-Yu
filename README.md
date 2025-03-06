@@ -34,7 +34,7 @@ Here are a few examples of projects that showcase my skills:
    Developed a custom physics simulation engine from scratch using SFML, focusing on collision detection, object interaction, and realistic movement within a 2D environment.
 
 2. **Geometry Wars: A Simple Game made with SFML**
-   Created a game where you shoot moving enemies spawned at random location, utilizing C++ and SFML for game development.
+   Created a game where you shoot moving enemies spawned at random location, implementing (ECS)Entity-Component system and utilizing C++ and SFML Library for game development.
 
 3. **IExercise: A Cross-Platform App with Flutter**  
    Developed a mobile app using Flutter that provides for tracking and performing various exercise routines. The app helps users stay fit and motivated by offering customized workout plans, exercise tracking, and progress monitoring.
