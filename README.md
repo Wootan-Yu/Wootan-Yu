@@ -1,17 +1,39 @@
-# Hi there, I'm Martin Padayao 👋
+Hi there! 👋 I'm Martin Padayao
+I'm a passionate Computer Engineering student with a strong foundation in C++ and Python programming. My primary focus is on game development and computer graphics, specifically in building physics simulations from scratch using SFML. I love solving complex problems and creating interactive experiences through programming and physics-based simulations.
 
-# 💫 About Me:
-I'm a passionate programmer with a deep love for both mathematics and physics. For me, coding isn't just a profession; it's a gateway to exploring the intricate beauty of these two fascinating disciplines.
+🚀 About Me
+💻 Currently studying: Computer Engineering
+🎮 Specialization: Game Development, Computer Graphics, Physics Simulations
+🖥️ Languages & Tools:
+C++
+Python
+SFML
+Game engines & Graphics libraries
+🔧 Skills & Expertise
+C++ Programming: Proficient in developing high-performance applications, focusing on memory management, algorithms, and object-oriented design.
+Python Programming: Comfortable with scripting, automation, and data manipulation, leveraging Python for both academic and personal projects.
+Game Development: Knowledgeable in game mechanics, physics engines, and graphical rendering. I work on interactive game projects that involve physics-based challenges.
+Physics Simulations: Specialized in creating realistic physics simulations using SFML, including simulations of gravity, friction, and momentum, from scratch.
+Computer Graphics: Skilled in implementing 2D and 3D graphics, shaders, and textures using SFML, enabling dynamic and visually rich simulations.
+🎮 Projects
+Here are a few examples of projects that showcase my skills:
 
+Physics Simulation Engine with SFML
+Developed a custom physics simulation engine from scratch using SFML, focusing on collision detection, object interaction, and realistic movement within a 2D environment.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+2D Game with Realistic Physics
+Created a game where players interact with physics-based puzzles, utilizing C++ and SFML for both graphics rendering and physics simulation.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wootan-Yu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wootan-Yu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wootan-Yu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Procedural Terrain Generation in C++
+Implemented algorithms to generate random terrains, simulating natural landscapes, and integrated them into a game engine.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Wootan-Yu&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+🌱 Currently Learning
+Exploring advanced 3D graphics using OpenGL.
+Improving performance optimization for physics-based simulations.
+Diving deeper into machine learning with Python for game development applications.
+📫 How to Reach Me
+💼 LinkedIn
+📧 Email
+🐦 Twitter
+Feel free to reach out for collaborations, project discussions, or just to chat about game development and programming!
 
