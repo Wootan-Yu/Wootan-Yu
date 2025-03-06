@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Martin Padayao
 
-## Computer Engineering Student | Graphics and Physics Simulation Developer | Mobile Developer
-
 ## 🚀 About Me
 
 I'm a passionate **Computer Engineering student** at **Polytechnic University of the Philippines** with a strong foundation in **C++** and **Python** programming. My primary focus is on **game development** and **computer graphics**, specifically in building **physics simulations from scratch** using **SFML**. I love solving complex problems and creating interactive experiences through programming and physics-based simulations.
