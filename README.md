@@ -30,7 +30,7 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 
 Here are a few examples of projects that showcase my skills:
 
-1. **Physics Simulation Engine with SFML**:  
+1. **Physics Engine with SFML**:  
    Developed a custom physics simulation engine from scratch using SFML, focusing on collision detection, object interaction, and realistic movement within a 2D environment.
 
 2. **Geometry Wars: A Simple Game made with SFML**:  
