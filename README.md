@@ -6,14 +6,13 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 ## 🚀 About Me
 
 - 💻 **Currently studying**: Computer Engineering
-- 🎮 **Specialization**: Game Development, Computer Graphics, Physics Simulations
+- 🎮 **Specialization**: Game Development, Computer Graphics, Simulations
 - 🖥️ **Languages & Tools**:
   - C++
   - Python
   - SFML
   - imGui
   - Flutter (for Mobile Development)
-  - Game engines & Graphics libraries
 
 
 ## 🔧 Skills & Expertise
@@ -21,7 +20,7 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 - **C++ Programming**: Proficient in developing high-performance applications, focusing on memory management, algorithms, and object-oriented design.
 - **Python Programming**: Comfortable with scripting, automation, and data manipulation, leveraging Python for both academic and personal projects.
 - **Game Development**: Knowledgeable in physics engines, and graphical rendering. I work on interactive projects that involve physics-based challenges.
-- **Physics Simulations**: Specialized in creating realistic **physics simulations** using SFML, including simulations of gravity, friction, and momentum, from scratch.
+- **Simulations**: Specialized in creating **simulations** using SFML, including light, particles, and other physics forces, from scratch.
 - **Computer Graphics**: Skilled in implementing 2D graphics using SFML, enabling dynamic and visually rich simulations.
 - **Mobile Development (Flutter)**: Experienced in building cross-platform mobile apps using Flutter, developing modern, performant applications with a focus on user experience.
 
@@ -39,10 +38,13 @@ Here are a few examples of projects that showcase my skills:
 3. **IExercise: A Cross-Platform App with Flutter**:  
    Developed a mobile app using Flutter that provides for tracking and performing various exercise routines. The app helps users stay fit and motivated by offering customized workout plans, exercise tracking, and progress monitoring.
 
+4. **Ray Casting with SFML**:
+   Implemented a ray casting system in SFML to simulate 2D light rays and line-of-sight calculations. The system is optimized using data-oriented design principles to improve performance and efficiency, handling large-scale environments and real-time interactions.
+
 
 ## 🌱 Currently Learning
 
-- Exploring **2D and 3D graphics** using SFML.
+- Exploring **2D and 3D graphics** using SFML and openGL.
 - Improving performance optimization for physics-based simulations.
 
 
