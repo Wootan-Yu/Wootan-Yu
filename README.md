@@ -9,9 +9,9 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 - 🎮 **Specialization**: Game Development, Computer Graphics, Simulations
 - 🖥️ **Languages & Tools**:
   - C++
-  - Python
   - SFML
   - imGui
+  - Python
   - Flutter (for Mobile Development)
 
 
