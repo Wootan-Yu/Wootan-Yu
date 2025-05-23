@@ -37,6 +37,10 @@ Here are a few examples of projects that showcase my skills:
 
 ## 📫 How to Reach Me
 
-<i align="left" alt="LinkedIn" width="30px" src="https://www.linkedin.com/in/martinpadayao/" class="devicon-linkedin-plain"></i>
-<i align="left" alt="LinkedIn" width="30px" src="https://www.facebook.com/share/15pD3cU9Aj/" class="devicon-facebook-plain"></i>
-<br/>
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/martinpadayao#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/martinpadayao#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/facebook-light.svg)](https://www.facebook.com/share/15pD3cU9Aj#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/share/15pD3cU9Aj#gh-dark-mode-only)
+&nbsp;&nbsp;
+
