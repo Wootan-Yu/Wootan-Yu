@@ -6,23 +6,11 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 ## 🚀 About Me
 
 - 💻 **Currently studying**: Computer Engineering
-- 🎮 **Specialization**: Game Development, Computer Graphics, Simulations
-- 🖥️ **Languages & Tools**:
-  - C++
-  - SFML
-  - imGui
-  - Python
-  - Flutter (for Mobile Development)
-
+- 🎮 **Specialization**: Computer Graphics, Simulations
 
 ## 🔧 Skills & Expertise
 
-- **C++ Programming**: Proficient in developing high-performance applications, focusing on memory management, algorithms, and object-oriented design.
-- **Python Programming**: Comfortable with scripting, automation, and data manipulation, leveraging Python for both academic and personal projects.
-- **Game Development**: Knowledgeable in physics engines, and graphical rendering. I work on interactive projects that involve physics-based challenges.
-- **Simulations**: Specialized in creating **simulations** using SFML, including light, particles, and other physics forces, from scratch.
-- **Computer Graphics**: Skilled in implementing 2D graphics using SFML, enabling dynamic and visually rich simulations.
-- **Mobile Development (Flutter)**: Experienced in building cross-platform mobile apps using Flutter, developing modern, performant applications with a focus on user experience.
+[<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />]
 
 
 ## 🎮 Projects
