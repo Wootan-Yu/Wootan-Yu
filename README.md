@@ -2,7 +2,6 @@
 
 I'm a **Computer Engineering student** at **Polytechnic University of the Philippines** with a strong foundation in **C++** and **Python** programming. My primary focus is on **game development** and **computer graphics**, specifically in building **simulations from scratch** using **SFML**. I love solving complex problems and creating interactive experiences through programming and physics-based simulations.
 
-
 ## 🚀 About Me
 
 - 💻 **Currently studying**: Computer Engineering
@@ -36,15 +35,8 @@ Here are a few examples of projects that showcase my skills:
 5. **Flocking Simulation with SFML**:
    Developed a 2D flocking behavior simulation using SFML and C++ to model collective animal movement such as bird flocks or fish schools. The system implements classic boid algorithms—Separation, Alignment, and Cohesion—to produce emergent group behavior in real-time.
 
-## 🌱 Currently Learning
-
-- Exploring **2D and 3D graphics** using SFML and openGL.
-- Improving performance optimization for physics-based simulations.
-
-
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/martinpadayao/)
-- [Facebook](https://www.facebook.com/share/15pD3cU9Aj/)
-
-Feel free to reach out for collaborations, project discussions, or just to chat about game development and programming!
+<i align="left" alt="LinkedIn" width="30px" src="https://www.linkedin.com/in/martinpadayao/" class="devicon-linkedin-plain"></i>
+<i align="left" alt="LinkedIn" width="30px" src="https://www.facebook.com/share/15pD3cU9Aj/" class="devicon-facebook-plain"></i>
+<br/>
