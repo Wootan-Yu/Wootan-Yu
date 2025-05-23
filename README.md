@@ -41,7 +41,8 @@ Here are a few examples of projects that showcase my skills:
 4. **Ray Casting with SFML**:
    Implemented a ray casting system in SFML to simulate 2D light rays and line-of-sight calculations. The system is optimized using data-oriented design principles to improve performance and efficiency, handling large-scale environments and real-time interactions.
 
-5. **Flocking Simulation with SFML**: Developed a 2D flocking behavior simulation using SFML and C++ to model collective animal movement such as bird flocks or fish schools. The system implements classic boid algorithms—Separation, Alignment, and Cohesion—to produce emergent group behavior in real-time.
+5. **Flocking Simulation with SFML**:
+   Developed a 2D flocking behavior simulation using SFML and C++ to model collective animal movement such as bird flocks or fish schools. The system implements classic boid algorithms—Separation, Alignment, and Cohesion—to produce emergent group behavior in real-time.
 
 ## 🌱 Currently Learning
 
