@@ -15,8 +15,8 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 <img align="left" alt="flutter" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VisualStudio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<br/>
 
-</br>
 ## 🎮 Projects
 
 Here are a few examples of projects that showcase my skills:
