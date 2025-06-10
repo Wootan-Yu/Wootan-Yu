@@ -19,20 +19,22 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 ## 🎮 Projects
 
 Here are a few examples of projects that showcase my skills:
-
-1. **Physics Engine with SFML**:  
+1. **Vector Field Simulation with Particles**:
+   This project visualizes a vector field combined with target-seeking particles. Particles are influenced by the field's direction and dynamically seek a target tile. The simulation is optimized to render and handle 100,000+ particles in real-time, making it ideal for performance-heavy simulations
+   
+2. **Physics Engine**:  
    Developed a custom physics simulation engine from scratch using SFML, focusing on collision detection, object interaction, and realistic movement within a 2D environment.
 
-2. **Geometry Wars: A Simple Game made with SFML**:  
+3. **Geometry Wars**:  
    Created a game where you shoot moving enemies spawned at random location, implementing Entity-Component system (ECS) and utilizing C++ and SFML Library for game development.
 
-3. **IExercise: A Cross-Platform App with Flutter**:  
+4. **IExercise**:   
    Developed a mobile app using Flutter that provides for tracking and performing various exercise routines. The app helps users stay fit and motivated by offering customized workout plans, exercise tracking, and progress monitoring.
 
-4. **Ray Casting with SFML**:
+5. **Ray Casting**:   
    Implemented a ray casting system in SFML to simulate 2D light rays and line-of-sight calculations.
 
-5. **Flocking Simulation with SFML**:
+6. **Flocking Simulation**:   
    Developed a 2D flocking behavior simulation using SFML and C++ to model collective animal movement such as bird flocks or fish schools. The system implements classic boid algorithms—Separation, Alignment, and Cohesion—to produce emergent group behavior in real-time.
 
 ## 📫 How to Reach Me
