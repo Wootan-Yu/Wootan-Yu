@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Martin Padayao
 
-I'm a **Computer Engineering student** at **Polytechnic University of the Philippines** with a strong foundation in **C++** programming language. My primary focus is on **game development** and **computer graphics**, specifically in building **simulations from scratch** using **SFML and ImGUI**. I like reading books, articles, and watching videos related with math and programming in my free time. 
-
 ## 🚀 About Me
 
 - 💻 **Currently studying**: Computer Engineering
