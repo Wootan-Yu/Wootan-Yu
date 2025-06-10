@@ -19,7 +19,7 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 ## 🎮 Projects
 
 Here are a few examples of projects that showcase my skills:
-1. **Vector Field Simulation with Particles**:
+1. **Vector Field Simulation with Particles**:   
    This project visualizes a vector field combined with target-seeking particles. Particles are influenced by the field's direction and dynamically seek a target tile. The simulation is optimized to render and handle 100,000+ particles in real-time, making it ideal for performance-heavy simulations
    
 2. **Physics Engine**:  
