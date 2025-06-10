@@ -19,23 +19,23 @@ I'm a **Computer Engineering student** at **Polytechnic University of the Philip
 ## 🎮 Projects
 
 Here are a few examples of projects that showcase my skills:
-1. **Vector Field Simulation with Particles**:   
-   This project visualizes a vector field combined with target-seeking particles. Particles are influenced by the field's direction and dynamically seek a target tile. The simulation is optimized to render and handle 100,000+ particles in real-time, making it ideal for performance-heavy simulations
-   
-2. **Physics Engine**:  
+1. **Vector Field Simulation with Particles**   
+   This project visualizes a vector field combined with target-seeking particles. The particles are influenced by the field's direction and dynamically navigate toward a target tile. The simulation efficiently    handles 100,000+ particles in real-time, making it ideal for performance-heavy simulations.
+
+2. **Custom Physics Engine**   
    Developed a custom physics simulation engine from scratch using SFML, focusing on collision detection, object interaction, and realistic movement within a 2D environment.
 
-3. **Geometry Wars**:  
-   Created a game where you shoot moving enemies spawned at random location, implementing Entity-Component system (ECS) and utilizing C++ and SFML Library for game development.
+3. **Geometry Wars (Game)**   
+Created a game where players shoot moving enemies spawned at random locations. Implemented an Entity-Component System (ECS) architecture, utilizing C++ and SFML for game development.
 
-4. **IExercise**:   
-   Developed a mobile app using Flutter that provides for tracking and performing various exercise routines. The app helps users stay fit and motivated by offering customized workout plans, exercise tracking, and progress monitoring.
+4. **IExercise (Mobile App)**   
+Developed a mobile app using Flutter to help users track and perform various exercise routines. The app offers customized workout plans, tracks exercise progress, and motivates users to stay fit.
 
-5. **Ray Casting**:   
-   Implemented a ray casting system in SFML to simulate 2D light rays and line-of-sight calculations.
+5. **Ray Casting System**   
+Built a ray casting system in SFML to simulate 2D light rays and line-of-sight calculations, which can be used for various applications such as vision or lighting simulations.
 
-6. **Flocking Simulation**:   
-   Developed a 2D flocking behavior simulation using SFML and C++ to model collective animal movement such as bird flocks or fish schools. The system implements classic boid algorithms—Separation, Alignment, and Cohesion—to produce emergent group behavior in real-time.
+6. **Flocking Simulation**   
+Implemented a 2D flocking behavior simulation using SFML and C++ to model collective animal movement (e.g., bird flocks, fish schools). The system uses classic Boid algorithms—Separation, Alignment, and Cohesion—to produce emergent group behavior in real-time.
 
 ## 📫 How to Reach Me
 
