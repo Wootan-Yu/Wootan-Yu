@@ -16,7 +16,6 @@
 
 ## 🎮 Projects
 
-Here are a few examples of projects that showcase my skills:
 1. **Vector Field Simulation with Particles**   
       This project visualizes a vector field combined with target-seeking particles. The particles are influenced by the field's direction and dynamically navigate toward a target tile. The simulation efficiently    handles 100,000+ particles in real-time, making it ideal for performance-heavy simulations.
 
