@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I like to code personal projects that I haven’t done before.
+I enjoy working on personal projects that are new to me.
 
 ## 🔧 Languages and Tools
 
