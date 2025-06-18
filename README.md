@@ -1,4 +1,4 @@
-## About Me
+## 💻 About Me
 
       I enjoy working on personal projects that are new to me.
 
