@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 💻 **Currently studying**: Computer Engineering
-- 🎮 **Specialization**: Computer Graphics, Simulations
+- 🎮 **Specialization**: Simulations
 
 ## 🔧 Languages and Tools
 
