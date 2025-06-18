@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Currently studying**: Computer Engineering
-- 🎮 **Specialization**: Simulations
+I like to code personal projects that I haven’t done before.
 
 ## 🔧 Languages and Tools
 
