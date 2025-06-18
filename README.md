@@ -34,9 +34,4 @@
 6. **Flocking Simulation**   
       Implemented a 2D flocking behavior simulation using SFML and C++ to model collective animal movement (e.g., bird flocks, fish schools). The system uses classic Boid algorithms—Separation, Alignment, and Cohesion—to produce emergent group behavior in real-time.
 
-## 📫 How to Reach Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/15pD3cU9Aj/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinpadayao/)
-
 
