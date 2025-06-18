@@ -1,7 +1,3 @@
-# Hi there! 👋 I'm Martin Padayao
-
-## 🚀 About Me
-
 I enjoy working on personal projects that are new to me.
 
 ## 🔧 Languages and Tools
