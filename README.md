@@ -1,6 +1,6 @@
 ## 💻 About Me
 
-      I enjoy working on personal projects that are new to me.
+     I enjoy working on projects that pique my interest.
 
 ## 🔧 Languages and Tools
 
