@@ -1,6 +1,6 @@
 ## 💻 About Me
 
-     I enjoy working on projects that pique my interest.
+     I like carrots and graphics programming
 
 ## 🔧 Languages and Tools
 
